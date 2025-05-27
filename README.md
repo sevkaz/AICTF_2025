@@ -1,2 +1,3 @@
-# AICTF_2025
+# AICTF 2025
 AI Security in Practice: Analysis of AI CTF Tasks at Positive Hack Days
+The more systems operate based on machine learning, the more critical the issue of their security becomes. Smart technologies are increasingly surrounding us, and it is difficult to deny the importance of this topic. Since 2019, we have been holding an AI CTF hacking competition at the PHDays conference, aimed at attacking systems built on machine learning. The competition is held as part of the AI ​​Track - a section with reports at Positive Hack Days, where information security experts share their experience in using machine learning for both offensive and defensive tasks. In 2023, we experimented with the format, creating a quest room where participants had to bypass three security factors to get out. However, after listening to numerous requests from the community, we decided to return to our traditional CTF format.
